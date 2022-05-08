@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  DLLcpp.cpp
+C:\Users\tlaka\source\repos\MergingGraphics\DLLcpp\DLLcpp.h(14,42): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  dllmain.cpp
+     Trwa tworzenie biblioteki C:\Users\tlaka\source\repos\MergingGraphics\x64\Release\DLLcpp.lib i obiektu C:\Users\tlaka\source\repos\MergingGraphics\x64\Release\DLLcpp.exp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  DLLcpp.vcxproj -> C:\Users\tlaka\source\repos\MergingGraphics\x64\Release\DLLcpp.dll

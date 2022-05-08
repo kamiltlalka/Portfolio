@@ -1,0 +1,12 @@
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\bin\Release\MergingGraphics.exe.config
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\bin\Release\MergingGraphics.exe
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\bin\Release\MergingGraphics.pdb
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\bin\Release\DLLcpp.dll
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\bin\Release\DLLcpp.pdb
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.csproj.AssemblyReference.cache
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.Form1.resources
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.Properties.Resources.resources
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.csproj.GenerateResource.cache
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.csproj.CoreCompileInputs.cache
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.exe
+C:\Users\tlaka\source\repos\MergingGraphics\MergingGraphics\obj\Release\MergingGraphics.pdb
