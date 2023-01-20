@@ -1,0 +1,36 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Hierarchical Index}{1}{}%
+\contentsline {section}{\numberline {1.1}Class Hierarchy}{1}{}%
+\contentsline {chapter}{\numberline {2}Class Index}{3}{}%
+\contentsline {section}{\numberline {2.1}Class List}{3}{}%
+\contentsline {chapter}{\numberline {3}Class Documentation}{5}{}%
+\contentsline {section}{\numberline {3.1}Brick\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}vars Class Reference}{5}{}%
+\contentsline {subsection}{\numberline {3.1.1}Detailed Description}{5}{}%
+\contentsline {section}{\numberline {3.2}Level\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Gen Class Reference}{5}{}%
+\contentsline {subsection}{\numberline {3.2.1}Detailed Description}{6}{}%
+\contentsline {section}{\numberline {3.3}Level\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Unlocks Class Reference}{6}{}%
+\contentsline {subsection}{\numberline {3.3.1}Detailed Description}{6}{}%
+\contentsline {section}{\numberline {3.4}List\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Brick Class Reference}{6}{}%
+\contentsline {subsection}{\numberline {3.4.1}Detailed Description}{6}{}%
+\contentsline {section}{\numberline {3.5}Menu\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Controll Class Reference}{6}{}%
+\contentsline {subsection}{\numberline {3.5.1}Detailed Description}{7}{}%
+\contentsline {section}{\numberline {3.6}Menu\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Vars Class Reference}{7}{}%
+\contentsline {subsection}{\numberline {3.6.1}Detailed Description}{7}{}%
+\contentsline {section}{\numberline {3.7}Paddle Class Reference}{7}{}%
+\contentsline {subsection}{\numberline {3.7.1}Detailed Description}{8}{}%
+\contentsline {section}{\numberline {3.8}Reset\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Progrss Class Reference}{8}{}%
+\contentsline {subsection}{\numberline {3.8.1}Detailed Description}{8}{}%
+\contentsline {section}{\numberline {3.9}Script\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}for\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}ball Class Reference}{8}{}%
+\contentsline {subsection}{\numberline {3.9.1}Detailed Description}{9}{}%
+\contentsline {section}{\numberline {3.10}Trade\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Handling Class Reference}{9}{}%
+\contentsline {subsection}{\numberline {3.10.1}Detailed Description}{9}{}%
+\contentsline {subsection}{\numberline {3.10.2}Member Function Documentation}{9}{}%
+\contentsline {subsubsection}{\numberline {3.10.2.1}BuyItem()}{9}{}%
+\contentsline {section}{\numberline {3.11}Trans\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Script Class Reference}{10}{}%
+\contentsline {subsection}{\numberline {3.11.1}Detailed Description}{10}{}%
+\contentsline {subsection}{\numberline {3.11.2}Member Function Documentation}{10}{}%
+\contentsline {subsubsection}{\numberline {3.11.2.1}Loadlevell()}{10}{}%
+\contentsline {subsubsection}{\numberline {3.11.2.2}LoadTransition()}{10}{}%
+\contentsline {subsubsection}{\numberline {3.11.2.3}PlayLevel()}{11}{}%
+\contentsline {subsubsection}{\numberline {3.11.2.4}ReLoadlevell()}{11}{}%
+\contentsline {chapter}{Index}{13}{}%
