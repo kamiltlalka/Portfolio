@@ -1,0 +1,1 @@
+Program allows to add one picture on another with set procentage of visibility. Program uses threads and two self-made libraries. one library is in c++ and other in asm.
