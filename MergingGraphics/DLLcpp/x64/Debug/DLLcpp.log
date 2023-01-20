@@ -1,3 +1,0 @@
-﻿  DLLcpp.cpp
-C:\Users\tlaka\source\repos\MergingGraphics\DLLcpp\DLLcpp.h(14,42): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
-  DLLcpp.vcxproj -> C:\Users\tlaka\source\repos\MergingGraphics\x64\Debug\DLLcpp.dll

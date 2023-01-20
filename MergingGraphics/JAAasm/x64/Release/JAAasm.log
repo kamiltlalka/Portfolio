@@ -1,3 +1,0 @@
-﻿  Assembling JAAsm.asm...
-LINK : error LNK2001: nierozpoznany symbol zewnętrzny _DllMainCRTStartup
-C:\Users\tlaka\source\repos\MergingGraphics\x64\Release\JAAasm.dll : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

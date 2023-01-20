@@ -1,5 +1,0 @@
-﻿  DLLcpp.cpp
-C:\Users\tlaka\source\repos\MergingGraphics\DLLcpp\DLLcpp.h(14,42): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
-  DLLcpp.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
-     Trwa tworzenie biblioteki C:\Users\tlaka\source\repos\MergingGraphics\Debug\DLLcpp.lib i obiektu C:\Users\tlaka\source\repos\MergingGraphics\Debug\DLLcpp.exp
-  DLLcpp.vcxproj -> C:\Users\tlaka\source\repos\MergingGraphics\Debug\DLLcpp.dll

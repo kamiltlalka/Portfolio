@@ -1,3 +1,0 @@
-﻿     Trwa tworzenie biblioteki C:\Users\tlaka\source\repos\MergingGraphics\x64\Debug\JAAasm.lib i obiektu C:\Users\tlaka\source\repos\MergingGraphics\x64\Debug\JAAasm.exp
-JAAasm.exp : warning LNK4070: /OUT: dyrektywa JAAsm.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego „C:\Users\tlaka\source\repos\MergingGraphics\x64\Debug\JAAasm.dll”; dyrektywa została zignorowana
-  JAAasm.vcxproj -> C:\Users\tlaka\source\repos\MergingGraphics\x64\Debug\JAAasm.dll
